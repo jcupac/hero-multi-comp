@@ -1,10 +1,3 @@
-# JELENA
-
-cd backend
-
-
-
-
 # Backend Service
 
 This is the backend API service for the ATDD Accelerator Template, built with Java Spring Boot.

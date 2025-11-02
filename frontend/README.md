@@ -1,10 +1,3 @@
-# JELENA
-
-cd frontend
-
-
-
-
 # Frontend Service
 
 This is the frontend UI service for the ATDD Accelerator Template, built with React.
